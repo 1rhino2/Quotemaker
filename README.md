@@ -9,8 +9,7 @@ A simple Go web app that fetches a random quote from public APIs and credits [1r
 - Fetches a random quote from multiple free APIs (no API key needed)
 - Minimal UI, instant load
 - Credits 1rhino2
-- Opens GitHub profile in a new tab after 10 seconds
-
+  
 ## Usage
 
 1. Install Go ([download](https://golang.org/dl/))
