@@ -2,7 +2,7 @@
 
 [![Go](https://img.shields.io/badge/Go-1.22-blue?logo=go)](https://golang.org/) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE) [![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux%20%7C%20macOS-lightgrey)](#)
 
-A simple Go web app that fetches a random quote from public APIs and credits [1rhino2](https://github.com/1rhino2). After 10 seconds, it opens 1rhino2's GitHub in a new tab.
+A simple Go web app that fetches a random quote from public APIs and credits [1rhino2](https://github.com/1rhino2). After 10 seconds, it opens my GitHub in a new tab.
 
 ## Features
 
