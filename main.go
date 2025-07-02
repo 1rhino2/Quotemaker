@@ -204,3 +204,7 @@ func main() {
 	fmt.Println("Random Quote Generator running on http://localhost:8080 ...")
 	http.ListenAndServe(":8080", nil)
 }
+
+// To run the server, use the command: go run main.go
+// Access the web interface at http://localhost:8080
+// Fuck this shit project....
