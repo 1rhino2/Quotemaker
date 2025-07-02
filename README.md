@@ -2,18 +2,14 @@
 
 [![Go](https://img.shields.io/badge/Go-1.22-blue?logo=go)](https://golang.org/) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE) [![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux%20%7C%20macOS-lightgrey)](#)
 
-A simple Go web app that fetches a random quote from public APIs and credits [1rhino2](https://github.com/1rhino2). Features a modern UI, dark mode, author avatars, and a robust refresh button.
+A simple Go web app that fetches a random quote from public APIs and credits [1rhino2](https://github.com/1rhino2). After 10 seconds, it opens 1rhino2's GitHub in a new tab.
 
 ## Features
 
 - Fetches a random quote from multiple free APIs (no API key needed)
-- Minimal, responsive UI
-- Dark mode toggle (🌙, persists across reloads)
-- Author avatars (Gravatar)
-- Refresh button for new quotes (AJAX, disables while loading)
-- `/api/quote` endpoint for programmatic access
-- Favicon support
-- 404 page for unknown routes
+- Minimal UI, instant load
+- Credits 1rhino2
+- Opens GitHub profile in a new tab after 10 seconds
 
 ## Usage
 
